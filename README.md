@@ -1,8 +1,8 @@
 
 ## Usage
 ### Initial steps:
-- Git clone this repository Run: `git clone https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface.git`
-- Run: `cd Facial-Emotion-Recognition-using-OpenCV-and-Deepface`
+- Git clone this repository Run: `git clone https://github.com/Shriram-RZ/Emotion-Detection.git`
+- Run: `cd Emotion-Detection`
 1. Install the required dependencies:
    - You can use `pip install -r requirements.txt`
    - Or you can install dependencies individually:
